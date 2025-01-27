@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alysonjan
 - 👀 I’m interested in Programming and Cloud
-- 🌱 I’m currently a Junior Fullstack web developer
+- 🌱 I’m currently a Web developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
